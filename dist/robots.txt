@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-complete-home-repairs-maintenance-llc.dream-surge.com/sitemap-index.xml
